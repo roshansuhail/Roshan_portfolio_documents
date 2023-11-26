@@ -1,0 +1,36 @@
+ 
+
+ 
+
+DD
+IKW
+DW
+
+OKW Outer Keyhole Width }
+
+Thickness
+
+Width
+
+Length
+
+Tab Width
+
+Cutting Edge Length
+Recessed Length
+Cutout Width
+Cutout Length
+Cutout End Shape
+Circle Diameter
+Diamond Diameter
+Inner Keyhole Width
+Diamond Width
+
+ 
+
+Periphery
+Dimensions
+
+Cutout
+Dimensions
+
